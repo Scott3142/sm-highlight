@@ -1,6 +1,6 @@
-=== Highlight ===
+=== SM-Highlight ===
 
-Contributors: extendthemes
+Contributors: extendthemes,Scott3142
 Tags: entertainment, food-and-drink, portfolio, one-column, two-columns, right-sidebar, grid-layout, custom-header, custom-menu, custom-logo, full-width-template, theme-options, translation-ready, featured-images, threaded-comments
 Requires at least: 4.9
 Tested up to: 5.2.2
