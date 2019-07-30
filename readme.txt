@@ -15,6 +15,8 @@ Highlight is a very flexible, multipurpose WordPress theme that takes the Custom
 
 Highlight is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Highlight is responsive so it works on mobile devices out of the box and it is also WooCommerce ready.
 
+Modification by Scott Morgan adds some CSS additions and updates functions.php to remove "Category:" label from blog prefixes.
+
 == Frequently Asked Questions ==
 
 = How can I customize Highlight? =
