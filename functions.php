@@ -197,7 +197,7 @@ function highlight_get_footer_copyright($copyright, $preview_atts)
     
     $copyrightText = sprintf($copyrightText, 'https://alicurzonphotography.co.uk/');
     
-    $copyright = '<p ' . $preview_atts . ' class="copyright">&copy;&nbsp;' . "&nbsp;" . date_i18n(__('Y', 'highlight')) . '&nbsp;|&nbsp; <a href="https://bridgend.ac.uk" target="_blank">Bridgend College</a><br>' . wp_kses_post($copyrightText) . '</p>';
+    $copyright = '<p ' . $preview_atts . ' class="copyright">&copy;&nbsp;' . "&nbsp;" . date_i18n(__('Y', 'highlight')) . '&nbsp;|&nbsp; <a href="https://bridgend.ac.uk" class="mesmerize-theme-link" target="_blank">Bridgend College</a><br>' . wp_kses_post($copyrightText) . '</p>';
     
     return $copyright;
 }
